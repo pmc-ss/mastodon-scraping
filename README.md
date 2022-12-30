@@ -1,2 +1,3 @@
-# mastodon-scraping
-Repository for scraping public information from Mastodon
+# Mastodon Scraping
+
+Repository for scraping public information about the Mastodon servers.
